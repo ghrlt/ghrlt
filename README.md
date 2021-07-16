@@ -7,7 +7,6 @@
         ‹ Gaëtan ›
       </h2>
     </b>
-    <br>
   </span>
   
   
