@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner-hereweare.gif">
+  <img src="banner-hieveryone.png">
   <br>
   <span>
     <b>
