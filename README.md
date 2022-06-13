@@ -12,7 +12,7 @@
   
   
   <p align="center">
-    <a href="https://linkedin.com/in/ghrlt" target="_blank">
+    <a href="https://linkedin.com/in/gahrlt" target="_blank">
       <img width="35px" src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg", alt="LinkedIn logo">
     </a>
     <a href="https://twitter.com/gahrlt" target="_blank">
