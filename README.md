@@ -8,7 +8,13 @@
       </h2>
     </b>
   </span>
-  
+
+
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=ghrlt&theme=onedark&margin-w=25&title=Joined2020,Stars,Commit,Repositories,Issues,PullRequest">
+    </a>
+  </p>
   
   
   <p align="center">
