@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="banner-hieveryone.png">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghrlt/ghrlt/master/hi-darkmode.png">
+    <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/ghrlt/ghrlt/master/hi-whitemode.png">
+</picture>
   <br>
   <span>
     <b>
