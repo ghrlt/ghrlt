@@ -31,4 +31,7 @@
       <img width="35px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="Discord logo">
     </a>
   </p>
+  <p>
+    <img src="https://visit-counter.vercel.app/counter.png?page=github-ghrlt&s=18&ff=&ta=You%20are%20the%20&tb=th%20visitor">
+  </p>
 </p>
