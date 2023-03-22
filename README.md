@@ -27,7 +27,7 @@
     <a href="https://twitter.com/gahrlt" target="_blank">
       <img width="35px" src="https://img.icons8.com/ios-filled/100/4a90e2/twitter.png" alt="Twitter logo">
     </a>
-    <a href="https://discord.gg/cQY9hc7XHm" target="_blank">
+    <a href="https://discord.com/users/783018586561052685" target="_blank">
       <img width="35px" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" alt="Discord logo">
     </a>
   </p>
