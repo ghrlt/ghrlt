@@ -32,6 +32,6 @@
     </a>
   </p>
   <p>
-    <img src="https://visit-counter.vercel.app/counter.png?page=github-ghrlt&s=14&ff=&tb=You%20are%20the%20&ta=th%20visitor.%20Thanks!">
+    <img src="https://visit-counter.vercel.app/counter.png?page=github-ghrlt&s=14&ff=electrolize&tb=You%20are%20the%20&ta=th%20visitor.%20Thanks!">
   </p>
 </p>
